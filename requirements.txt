@@ -1,0 +1,13 @@
+# Dependencies detected in notebook imports.
+# Review this list before installation.
+# This is not a validated historical environment lock file.
+# Install PyTorch according to your operating system and hardware.
+lightning
+matplotlib
+numpy
+pandas
+pytorch-forecasting
+scikit-learn
+statsmodels
+torch
+torch-geometric
