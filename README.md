@@ -50,12 +50,7 @@ See docs/data_description.md for the input schemas.
 Notebook outputs, attachments and execution metadata were removed
 from this distribution. Code and Markdown contents were preserved.
 
-## Implementation provenance
 
-This repository organizes the available implementation of the study.
-Correspondence between notebook versions and article results
-should be documented using the applicable configurations
-and execution records.
 
 ## Environment
 
